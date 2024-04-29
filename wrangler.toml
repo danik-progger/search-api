@@ -1,0 +1,6 @@
+name = "search engine"
+compatibility_date = "2024-04-27"
+
+[vars]
+UPSTASH_REDIS_TOKEN = "AchYAAIncDFlNGU4Zjc0MGQ3OTI0NWQ0YThkMzMzOTU0OTk4OTA3M3AxNTEyODg"
+UPSTASH_REDIS_URL = "https://social-maggot-51288.upstash.io"
